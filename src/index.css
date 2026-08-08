@@ -1,0 +1,57 @@
+@import "tailwindcss";
+
+@theme {
+  /* Font Override */
+  --font-sans: "Poppins", "Inter", sans-serif;
+
+  /* Primary Theme Colors: Deep Maroon from logo.png */
+  --color-primary-50: #fef2f2;
+  --color-primary-100: #fee2e2;
+  --color-primary-200: #fecaca;
+  --color-primary-300: #fca5a5;
+  --color-primary-400: #f87171;
+  --color-primary-500: #b91c1c;
+  --color-primary-600: #991b1b;
+  --color-primary-700: #800000; /* Classic rich Maroon */
+  --color-primary-800: #6b0c10; /* Deep glowing Maroon background in logo.png */
+  --color-primary-850: #55070a;
+  --color-primary-900: #450305;
+  --color-primary-950: #2d0001;
+
+  /* Secondary Theme Colors: Festive Golden Yellow from logo.png */
+  --color-secondary-50: #fefdf6;
+  --color-secondary-100: #fdedae; /* Light cream yellow cloud color */
+  --color-secondary-200: #fce484;
+  --color-secondary-300: #fad451;
+  --color-secondary-400: #ffd343; /* Bright gold starburst highlights */
+  --color-secondary-500: #fcd858; /* Festive yellow text outlines & borders */
+  --color-secondary-600: #d4a316;
+  --color-secondary-700: #ad7a0b;
+  --color-secondary-800: #855b0a;
+  --color-secondary-900: #5c3d05;
+  --color-secondary-950: #362101;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-gray-50 text-gray-900 font-sans;
+  }
+}
+
+@layer utilities {
+  @keyframes marquee {
+    0% { transform: translateX(0%); }
+    100% { transform: translateX(-100%); }
+  }
+  .animate-marquee {
+    animation: marquee 20s linear infinite;
+  }
+  
+  .group:hover .pause-on-hover {
+    animation-play-state: paused;
+  }
+}

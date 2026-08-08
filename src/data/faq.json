@@ -1,0 +1,22 @@
+[
+  {
+    "id": "faq-1",
+    "question": "Can I buy firecrackers online through this website?",
+    "answer": "According to Supreme Court guidelines, direct online sales and e-commerce checkouts for firecrackers are not permitted. However, you can browse our catalog, download our price list, and send us your requirements via WhatsApp. We will process your order and provide delivery coordinates."
+  },
+  {
+    "id": "faq-2",
+    "question": "What is the minimum order value for shipping?",
+    "answer": "To offer true factory-wholesale pricing, we require a minimum order value of ₹3,000 for standard deliveries. This ensures we can cover parcel transport logistics safely and efficiently."
+  },
+  {
+    "id": "faq-3",
+    "question": "Are your crackers certified green crackers?",
+    "answer": "Yes, 100% of our products are certified Green Crackers developed under the CSIR-NEERI guidelines. They contain lower chemical emissions, use less barium, and are cleaner for the environment."
+  },
+  {
+    "id": "faq-4",
+    "question": "Which states do you ship to?",
+    "answer": "We ship to Tamil Nadu, Karnataka, Andhra Pradesh, Telangana, Kerala, and Pondicherry through licensed transport services. Customers pay the freight charges upon parcel receipt."
+  }
+]

@@ -1,0 +1,1113 @@
+{
+  "categories": [
+    {
+      "category": "ONE SOUND CRACKERS",
+      "products": [
+        {
+          "s_no": 1,
+          "id": "P001",
+          "name": "2 3/4 Kuruvi",
+          "per": "1 Pkt",
+          "rate": 50,
+          "discount_price": 10
+        },
+        {
+          "s_no": 2,
+          "id": "P002",
+          "name": "3 1/2 Lakshmi",
+          "per": "1 Pkt",
+          "rate": 65,
+          "discount_price": 13
+        },
+        {
+          "s_no": 3,
+          "id": "P003",
+          "name": "4 Dlx Lakshmi",
+          "per": "1 Pkt",
+          "rate": 150,
+          "discount_price": 30
+        },
+        {
+          "s_no": 4,
+          "id": "P004",
+          "name": "Gold Lakshmi",
+          "per": "1 Pkt",
+          "rate": 200,
+          "discount_price": 40
+        },
+        {
+          "s_no": 5,
+          "id": "P005",
+          "name": "3 1/2Lakshmi dlx",
+          "per": "1 Pkt",
+          "rate": 85,
+          "discount_price": 17
+        },
+        {
+          "s_no": 6,
+          "id": "P006",
+          "name": "5inch patak",
+          "per": "1 Pkt",
+          "rate": 225,
+          "discount_price": 45
+        },
+        {
+          "s_no": 7,
+          "id": "P007",
+          "name": "5\"inch (20ply)",
+          "per": "1 Pkt",
+          "rate": 275,
+          "discount_price": 55
+        }
+      ]
+    },
+    {
+      "category": "FLOWER POTS",
+      "products": [
+        {
+          "s_no": 8,
+          "id": "P008",
+          "name": "Flower Pot Big",
+          "per": "1 Box",
+          "rate": 275,
+          "discount_price": 55
+        },
+        {
+          "s_no": 9,
+          "id": "P009",
+          "name": "Flower Pot Special",
+          "per": "1 Box",
+          "rate": 350,
+          "discount_price": 70
+        },
+        {
+          "s_no": 10,
+          "id": "P010",
+          "name": "Flower Pot Asoka",
+          "per": "1 Box",
+          "rate": 450,
+          "discount_price": 90
+        },
+        {
+          "s_no": 11,
+          "id": "P011",
+          "name": "Flower Pot Spr dlx",
+          "per": "1 Box",
+          "rate": 500,
+          "discount_price": 100
+        },
+        {
+          "s_no": 12,
+          "id": "P012",
+          "name": "Nano Tri Colour",
+          "per": "1 Box",
+          "rate": 1000,
+          "discount_price": 200
+        },
+        {
+          "s_no": 13,
+          "id": "P013",
+          "name": "4\" Tri Colour(5Pcs)",
+          "per": "1 Box",
+          "rate": 1200,
+          "discount_price": 240
+        }
+      ]
+    },
+    {
+      "category": "GROUND CHAKKAR",
+      "products": [
+        {
+          "s_no": 14,
+          "id": "P014",
+          "name": "Chakkar Big",
+          "per": "1 Box",
+          "rate": 175,
+          "discount_price": 35
+        },
+        {
+          "s_no": 15,
+          "id": "P015",
+          "name": "Chakkar Special",
+          "per": "1 Box",
+          "rate": 375,
+          "discount_price": 75
+        },
+        {
+          "s_no": 16,
+          "id": "P016",
+          "name": "Spinner Deluxe",
+          "per": "1 Box",
+          "rate": 800,
+          "discount_price": 160
+        },
+        {
+          "s_no": 17,
+          "id": "P017",
+          "name": "Whistling Wheel",
+          "per": "1 Box",
+          "rate": 575,
+          "discount_price": 115
+        },
+        {
+          "s_no": 18,
+          "id": "P018",
+          "name": "Chakkar Dekuxe",
+          "per": "1 Box",
+          "rate": 500,
+          "discount_price": 100
+        }
+      ]
+    },
+    {
+      "category": "SPARKLERS",
+      "products": [
+        {
+          "s_no": 19,
+          "id": "P019",
+          "name": "7 Cm Electric Sparklers",
+          "per": "1 Box",
+          "rate": 4550,
+          "discount_price": 910
+        },
+        {
+          "s_no": 20,
+          "id": "P020",
+          "name": "7 Cm Colour Sparklers",
+          "per": "1 Box",
+          "rate": 55,
+          "discount_price": 11
+        },
+        {
+          "s_no": 21,
+          "id": "P021",
+          "name": "7 Cm Green Sparklers",
+          "per": "1 Box",
+          "rate": 55,
+          "discount_price": 11
+        },
+        {
+          "s_no": 22,
+          "id": "P022",
+          "name": "7 Cm Red Sparklers",
+          "per": "1 Box",
+          "rate": 60,
+          "discount_price": 12
+        },
+        {
+          "s_no": 23,
+          "id": "P023",
+          "name": "10 Cm Electric Sparklers",
+          "per": "1 Box",
+          "rate": 75,
+          "discount_price": 15
+        },
+        {
+          "s_no": 24,
+          "id": "P024",
+          "name": "10 Cm Colour Sparklers",
+          "per": "1 Box",
+          "rate": 80,
+          "discount_price": 16
+        },
+        {
+          "s_no": 25,
+          "id": "P025",
+          "name": "10 Cm Green Sparklers",
+          "per": "1 Box",
+          "rate": 90,
+          "discount_price": 18
+        },
+        {
+          "s_no": 26,
+          "id": "P026",
+          "name": "10 Cm Red Sparklers",
+          "per": "1 Box",
+          "rate": 100,
+          "discount_price": 20
+        },
+        {
+          "s_no": 27,
+          "id": "P027",
+          "name": "15 Cm Electric Sparkler",
+          "per": "1 Box",
+          "rate": 200,
+          "discount_price": 40
+        },
+        {
+          "s_no": 28,
+          "id": "P028",
+          "name": "15 Cm Colour Sparklers",
+          "per": "1 Box",
+          "rate": 215,
+          "discount_price": 43
+        },
+        {
+          "s_no": 29,
+          "id": "P029",
+          "name": "15 Cm Green Sparklers",
+          "per": "1 Box",
+          "rate": 225,
+          "discount_price": 45
+        },
+        {
+          "s_no": 30,
+          "id": "P030",
+          "name": "15 Cm Red Sparklers",
+          "per": "1 Box",
+          "rate": 235,
+          "discount_price": 47
+        },
+        {
+          "s_no": 31,
+          "id": "P031",
+          "name": "30 Cm Electric Sparkler",
+          "per": "1 Box",
+          "rate": 200,
+          "discount_price": 40
+        },
+        {
+          "s_no": 32,
+          "id": "P032",
+          "name": "30 Cm Colour Sparklers",
+          "per": "1 Box",
+          "rate": 215,
+          "discount_price": 43
+        },
+        {
+          "s_no": 33,
+          "id": "P033",
+          "name": "30 Cm Green Sparklers",
+          "per": "1 Box",
+          "rate": 225,
+          "discount_price": 45
+        },
+        {
+          "s_no": 34,
+          "id": "P034",
+          "name": "30 Cm Red Sparklers",
+          "per": "1 Box",
+          "rate": 235,
+          "discount_price": 47
+        },
+        {
+          "s_no": 35,
+          "id": "P035",
+          "name": "50 Cm Electric Sparkler",
+          "per": "1 Box",
+          "rate": 950,
+          "discount_price": 190
+        },
+        {
+          "s_no": 36,
+          "id": "P036",
+          "name": "50 Cm Colour Sparklers",
+          "per": "1 Box",
+          "rate": 1000,
+          "discount_price": 200
+        }
+      ]
+    },
+    {
+      "category": "PENCIL SPARKLING VARIETIES",
+      "products": [
+        {
+          "s_no": 37,
+          "id": "P037",
+          "name": "1 1/2 Twinkling Star",
+          "per": "1 Box",
+          "rate": 150,
+          "discount_price": 30
+        },
+        {
+          "s_no": 38,
+          "id": "P038",
+          "name": "4' Twinkling Star",
+          "per": "1 Box",
+          "rate": 300,
+          "discount_price": 60
+        },
+        {
+          "s_no": 39,
+          "id": "P039",
+          "name": "Lolly Pop",
+          "per": "1 Box",
+          "rate": 1050,
+          "discount_price": 210
+        },
+        {
+          "s_no": 40,
+          "id": "P040",
+          "name": "Sivakasi Special",
+          "per": "1 Box",
+          "rate": 1100,
+          "discount_price": 220
+        }
+      ]
+    },
+    {
+      "category": "SKY ROCKETS",
+      "products": [
+        {
+          "s_no": 41,
+          "id": "P041",
+          "name": "Baby Rocket",
+          "per": "1 Box",
+          "rate": 200,
+          "discount_price": 40
+        },
+        {
+          "s_no": 42,
+          "id": "P042",
+          "name": "Lunic Rocket",
+          "per": "1 Box",
+          "rate": 600,
+          "discount_price": 120
+        },
+        {
+          "s_no": 43,
+          "id": "P043",
+          "name": "Two Sound Rocket",
+          "per": "1 Box",
+          "rate": 675,
+          "discount_price": 135
+        },
+        {
+          "s_no": 44,
+          "id": "P044",
+          "name": "Music Rocket",
+          "per": "1 Box",
+          "rate": 900,
+          "discount_price": 180
+        }
+      ]
+    },
+    {
+      "category": "BIJILI CRACKERS",
+      "products": [
+        {
+          "s_no": 45,
+          "id": "P045",
+          "name": "Red Bijili (50 Pcs)",
+          "per": "1 Pkt",
+          "rate": 75,
+          "discount_price": 15
+        },
+        {
+          "s_no": 46,
+          "id": "P046",
+          "name": "Red Bijili (100 Pcs)",
+          "per": "1 Pkt",
+          "rate": 150,
+          "discount_price": 30
+        },
+        {
+          "s_no": 47,
+          "id": "P047",
+          "name": "Gold Stripped(100pcs)",
+          "per": "1 Pkt",
+          "rate": 225,
+          "discount_price": 45
+        }
+      ]
+    },
+    {
+      "category": "BOMB CRACKERS",
+      "products": [
+        {
+          "s_no": 48,
+          "id": "P048",
+          "name": "Bullet Bomb",
+          "per": "1 Box",
+          "rate": 125,
+          "discount_price": 25
+        },
+        {
+          "s_no": 49,
+          "id": "P049",
+          "name": "Atom Bomb",
+          "per": "1 Box",
+          "rate": 225,
+          "discount_price": 45
+        },
+        {
+          "s_no": 50,
+          "id": "P050",
+          "name": "Hydro Bomb",
+          "per": "1 Box",
+          "rate": 300,
+          "discount_price": 60
+        },
+        {
+          "s_no": 51,
+          "id": "P051",
+          "name": "Classic Bomb",
+          "per": "1 Box",
+          "rate": 490,
+          "discount_price": 98
+        },
+        {
+          "s_no": 52,
+          "id": "P052",
+          "name": "King Raider (12ply)",
+          "per": "1 Box",
+          "rate": 1250,
+          "discount_price": 250
+        },
+        {
+          "s_no": 53,
+          "id": "P053",
+          "name": "Black Squad Mega Sound",
+          "per": "1 Box",
+          "rate": 1400,
+          "discount_price": 280
+        }
+      ]
+    },
+    {
+      "category": "PAPER BOMB",
+      "products": [
+        {
+          "s_no": 54,
+          "id": "P054",
+          "name": "Adiyal 1/4 Kg",
+          "per": "1 Box",
+          "rate": 240,
+          "discount_price": 48
+        },
+        {
+          "s_no": 55,
+          "id": "P055",
+          "name": "Adiyal 1/2 Kg",
+          "per": "1 Box",
+          "rate": 475,
+          "discount_price": 95
+        },
+        {
+          "s_no": 56,
+          "id": "P056",
+          "name": "Adiyal 1 Kg",
+          "per": "1 Box",
+          "rate": 950,
+          "discount_price": 190
+        }
+      ]
+    },
+    {
+      "category": "WALA GARLAND",
+      "products": [
+        {
+          "s_no": 57,
+          "id": "P057",
+          "name": "50 Deluxe",
+          "per": "PKT",
+          "rate": 600,
+          "discount_price": 120
+        },
+        {
+          "s_no": 58,
+          "id": "P058",
+          "name": "100 Deluxe",
+          "per": "PKT",
+          "rate": 1200,
+          "discount_price": 240
+        },
+        {
+          "s_no": 59,
+          "id": "P059",
+          "name": "28 Chorsa",
+          "per": "PKT",
+          "rate": 90,
+          "discount_price": 18
+        },
+        {
+          "s_no": 60,
+          "id": "P060",
+          "name": "56 Giant",
+          "per": "PKT",
+          "rate": 250,
+          "discount_price": 50
+        },
+        {
+          "s_no": 61,
+          "id": "P061",
+          "name": "100 Wala",
+          "per": "Box",
+          "rate": 175,
+          "discount_price": 35
+        },
+        {
+          "s_no": 62,
+          "id": "P062",
+          "name": "1k vibe",
+          "per": "1 Box",
+          "rate": 1000,
+          "discount_price": 200
+        },
+        {
+          "s_no": 63,
+          "id": "P063",
+          "name": "2k vibe",
+          "per": "1 Box",
+          "rate": 2000,
+          "discount_price": 400
+        },
+        {
+          "s_no": 64,
+          "id": "P064",
+          "name": "5k vibe",
+          "per": "1 Box",
+          "rate": 5000,
+          "discount_price": 1000
+        },
+        {
+          "s_no": 65,
+          "id": "P065",
+          "name": "90watts",
+          "per": "1 Box",
+          "rate": 650,
+          "discount_price": 130
+        }
+      ]
+    },
+    {
+      "category": "SKY NIGHT CELEBRATION",
+      "products": [
+        {
+          "s_no": 66,
+          "id": "P066",
+          "name": "Chota Pipe Multi Colour",
+          "per": "Box",
+          "rate": 165,
+          "discount_price": 33
+        },
+        {
+          "s_no": 67,
+          "id": "P067",
+          "name": "7 Shot (5 Pcs)",
+          "per": "Box",
+          "rate": 500,
+          "discount_price": 100
+        },
+        {
+          "s_no": 68,
+          "id": "P068",
+          "name": "2' Fancy Pipe (3 Pcs)",
+          "per": "Box",
+          "rate": 1100,
+          "discount_price": 220
+        },
+        {
+          "s_no": 69,
+          "id": "P069",
+          "name": "3 1/2 Fancy",
+          "per": "Box",
+          "rate": 1200,
+          "discount_price": 240
+        },
+        {
+          "s_no": 70,
+          "id": "P070",
+          "name": "4' Fancy",
+          "per": "Box",
+          "rate": 1700,
+          "discount_price": 340
+        },
+        {
+          "s_no": 71,
+          "id": "P071",
+          "name": "12 Shot",
+          "per": "Box",
+          "rate": 700,
+          "discount_price": 140
+        },
+        {
+          "s_no": 72,
+          "id": "P072",
+          "name": "30 Shot Multi Colour",
+          "per": "Box",
+          "rate": 2100,
+          "discount_price": 420
+        },
+        {
+          "s_no": 73,
+          "id": "P073",
+          "name": "60 Shot Multi Colour",
+          "per": "Box",
+          "rate": 4200,
+          "discount_price": 840
+        },
+        {
+          "s_no": 74,
+          "id": "P074",
+          "name": "120 Shot Multi Colour",
+          "per": "Box",
+          "rate": 8400,
+          "discount_price": 1680
+        },
+        {
+          "s_no": 75,
+          "id": "P075",
+          "name": "Mini Out 2pcs",
+          "per": "1 Box",
+          "rate": 350,
+          "discount_price": 70
+        },
+        {
+          "s_no": 76,
+          "id": "P076",
+          "name": "2\"Single pcs",
+          "per": "1 Box",
+          "rate": 400,
+          "discount_price": 80
+        },
+        {
+          "s_no": 77,
+          "id": "P077",
+          "name": "2 1/2\" single pcs",
+          "per": "1 Box",
+          "rate": 1000,
+          "discount_price": 200
+        },
+        {
+          "s_no": 78,
+          "id": "P078",
+          "name": "3 1/2\" Nayagara/crackling",
+          "per": "1 Box",
+          "rate": 1500,
+          "discount_price": 300
+        },
+        {
+          "s_no": 79,
+          "id": "P079",
+          "name": "4\" Fancy Pipe (2 Pcs)",
+          "per": "1 Box",
+          "rate": 3400,
+          "discount_price": 680
+        },
+        {
+          "s_no": 80,
+          "id": "P080",
+          "name": "4' Fancy Double ball",
+          "per": "1 Box",
+          "rate": 2500,
+          "discount_price": 500
+        },
+        {
+          "s_no": 81,
+          "id": "P081",
+          "name": "7 Step 4\"(1 Pcs)",
+          "per": "1 Box",
+          "rate": 2400,
+          "discount_price": 480
+        },
+        {
+          "s_no": 82,
+          "id": "P082",
+          "name": "5\"fancy Pipe",
+          "per": "1 Box",
+          "rate": 3750,
+          "discount_price": 750
+        },
+        {
+          "s_no": 83,
+          "id": "P083",
+          "name": "5\"Sony(2pcs)",
+          "per": "1 Box",
+          "rate": 8000,
+          "discount_price": 1600
+        },
+        {
+          "s_no": 84,
+          "id": "P084",
+          "name": "6\"fancy pipe",
+          "per": "1 Box",
+          "rate": 4950,
+          "discount_price": 990
+        }
+      ]
+    },
+    {
+      "category": "NIGHT FANCY CELEBRATION",
+      "products": [
+        {
+          "s_no": 85,
+          "id": "P085",
+          "name": "4' Panda/Nemo/Babyboss",
+          "per": "Box",
+          "rate": 325,
+          "discount_price": 65
+        },
+        {
+          "s_no": 86,
+          "id": "P086",
+          "name": "Photo Flash (5Pcs)",
+          "per": "Box",
+          "rate": 350,
+          "discount_price": 70
+        },
+        {
+          "s_no": 87,
+          "id": "P087",
+          "name": "Dancing Butterfly",
+          "per": "Box",
+          "rate": 450,
+          "discount_price": 90
+        },
+        {
+          "s_no": 88,
+          "id": "P088",
+          "name": "Feather Pop Shower",
+          "per": "Box",
+          "rate": 450,
+          "discount_price": 90
+        },
+        {
+          "s_no": 89,
+          "id": "P089",
+          "name": "Color Rain",
+          "per": "Box",
+          "rate": 450,
+          "discount_price": 90
+        },
+        {
+          "s_no": 90,
+          "id": "P090",
+          "name": "Golden Rise",
+          "per": "Box",
+          "rate": 450,
+          "discount_price": 90
+        },
+        {
+          "s_no": 91,
+          "id": "P091",
+          "name": "Mini Siren (5 Pcs)",
+          "per": "Box",
+          "rate": 700,
+          "discount_price": 140
+        },
+        {
+          "s_no": 92,
+          "id": "P092",
+          "name": "Mega Siren (3 Pcs)",
+          "per": "Box",
+          "rate": 800,
+          "discount_price": 160
+        },
+        {
+          "s_no": 93,
+          "id": "P093",
+          "name": "Peacock Fancy",
+          "per": "Box",
+          "rate": 650,
+          "discount_price": 130
+        },
+        {
+          "s_no": 94,
+          "id": "P094",
+          "name": "Bada Peacock",
+          "per": "Box",
+          "rate": 1900,
+          "discount_price": 380
+        },
+        {
+          "s_no": 95,
+          "id": "P095",
+          "name": "Tin Beer Shower",
+          "per": "Box",
+          "rate": 450,
+          "discount_price": 90
+        },
+        {
+          "s_no": 96,
+          "id": "P096",
+          "name": "Kit Kat",
+          "per": "Box",
+          "rate": 125,
+          "discount_price": 25
+        },
+        {
+          "s_no": 97,
+          "id": "P097",
+          "name": "Zee Boom Baa",
+          "per": "Box",
+          "rate": 75,
+          "discount_price": 15
+        },
+        {
+          "s_no": 98,
+          "id": "P098",
+          "name": "Electric Stone",
+          "per": "Box",
+          "rate": 75,
+          "discount_price": 15
+        },
+        {
+          "s_no": 99,
+          "id": "P099",
+          "name": "Fly Magic(6 Pcs)",
+          "per": "1 Box",
+          "rate": 675,
+          "discount_price": 135
+        },
+        {
+          "s_no": 100,
+          "id": "P100",
+          "name": "Mega Popcorn /crackling",
+          "per": "1 Box",
+          "rate": 650,
+          "discount_price": 130
+        },
+        {
+          "s_no": 101,
+          "id": "P101",
+          "name": "Smoke Celebration",
+          "per": "1 Box",
+          "rate": 600,
+          "discount_price": 120
+        }
+      ]
+    },
+    {
+      "category": "COLOUR MATCHES",
+      "products": [
+        {
+          "s_no": 102,
+          "id": "P102",
+          "name": "5 in 1 Matches",
+          "per": "1 Box",
+          "rate": 150,
+          "discount_price": 30
+        },
+        {
+          "s_no": 103,
+          "id": "P103",
+          "name": "Twister Laptop",
+          "per": "1 Box",
+          "rate": 800,
+          "discount_price": 160
+        },
+        {
+          "s_no": 104,
+          "id": "P104",
+          "name": "Candy Pop Laptop",
+          "per": "1 Box",
+          "rate": 950,
+          "discount_price": 190
+        }
+      ]
+    },
+    {
+      "category": "CHILDREN GUN ITEMS",
+      "products": [
+        {
+          "s_no": 105,
+          "id": "P105",
+          "name": "Snake Tablet (Sony)",
+          "per": "1 Box",
+          "rate": 175,
+          "discount_price": 35
+        },
+        {
+          "s_no": 106,
+          "id": "P106",
+          "name": "Plastic Gun With Ring Cap",
+          "per": "1 Box",
+          "rate": 650,
+          "discount_price": 130
+        },
+        {
+          "s_no": 107,
+          "id": "P107",
+          "name": "Pistol 5G",
+          "per": "1 Box",
+          "rate": 1125,
+          "discount_price": 225
+        }
+      ]
+    },
+    {
+      "category": "NEW FANCY ARRIVALS",
+      "products": [
+        {
+          "s_no": 108,
+          "id": "P108",
+          "name": "4 x 4 Wheel",
+          "per": "1 Box",
+          "rate": 750,
+          "discount_price": 150
+        },
+        {
+          "s_no": 109,
+          "id": "P109",
+          "name": "HeliCopter",
+          "per": "1 Box",
+          "rate": 500,
+          "discount_price": 100
+        },
+        {
+          "s_no": 110,
+          "id": "P110",
+          "name": "Money Blast (5 Pcs)",
+          "per": "1 Box",
+          "rate": 1000,
+          "discount_price": 200
+        },
+        {
+          "s_no": 111,
+          "id": "P111",
+          "name": "Jolly Train (3in1) fountain",
+          "per": "1 Pcs",
+          "rate": 1200,
+          "discount_price": 240
+        },
+        {
+          "s_no": 112,
+          "id": "P112",
+          "name": "Collie Mega Crackling (3pcs)",
+          "per": "1 Box",
+          "rate": 1200,
+          "discount_price": 240
+        },
+        {
+          "s_no": 113,
+          "id": "P113",
+          "name": "Elite Magic Mix (5pcs)",
+          "per": "1 Pcs",
+          "rate": 700,
+          "discount_price": 140
+        },
+        {
+          "s_no": 114,
+          "id": "P114",
+          "name": "Dancing Umbrella",
+          "per": "1 Box",
+          "rate": 1050,
+          "discount_price": 210
+        },
+        {
+          "s_no": 115,
+          "id": "P115",
+          "name": "Black Money (5pcs)",
+          "per": "1 Pcs",
+          "rate": 1150,
+          "discount_price": 230
+        },
+        {
+          "s_no": 116,
+          "id": "P116",
+          "name": "Water Queen Fountain",
+          "per": "1 Box",
+          "rate": 600,
+          "discount_price": 120
+        }
+      ]
+    },
+    {
+      "category": "NEW ARRIVALS 2026",
+      "products": [
+        {
+          "s_no": 117,
+          "id": "P117",
+          "name": "Cartoon 3pcs Fountain",
+          "per": "1 Box",
+          "rate": 500,
+          "discount_price": 100
+        },
+        {
+          "s_no": 118,
+          "id": "P118",
+          "name": "Polo Mix(5in1)",
+          "per": "1 Box",
+          "rate": 600,
+          "discount_price": 120
+        },
+        {
+          "s_no": 119,
+          "id": "P119",
+          "name": "Mega Fruit Fountain",
+          "per": "1 Pcs",
+          "rate": 800,
+          "discount_price": 160
+        },
+        {
+          "s_no": 120,
+          "id": "P120",
+          "name": "Ipl Mix(2pcs)Fountain",
+          "per": "1 Box",
+          "rate": 750,
+          "discount_price": 150
+        },
+        {
+          "s_no": 127,
+          "id": "P127",
+          "name": "Love dose-150",
+          "per": "1 Box",
+          "rate": 750,
+          "discount_price": 150
+        },
+        {
+          "s_no": 128,
+          "id": "P128",
+          "name": "Vel Hand fountain",
+          "per": "1 Box",
+          "rate": 1000,
+          "discount_price": 200
+        }
+      ]
+    },
+    {
+      "category": "GIFT BOX (NO DISCOUNT)",
+      "products": [
+        {
+          "s_no": 121,
+          "id": "P121",
+          "name": "25 Item Gift Box",
+          "per": "1 Box",
+          "rate": 1800,
+          "discount_price": 360
+        },
+        {
+          "s_no": 122,
+          "id": "P122",
+          "name": "30 Item Gift Box",
+          "per": "1 Box",
+          "rate": 2300,
+          "discount_price": 460
+        },
+        {
+          "s_no": 123,
+          "id": "P123",
+          "name": "35 Item Gift Box",
+          "per": "1 Box",
+          "rate": 2800,
+          "discount_price": 560
+        },
+        {
+          "s_no": 124,
+          "id": "P124",
+          "name": "40 Item Gift Box",
+          "per": "1 Box",
+          "rate": 3300,
+          "discount_price": 660
+        },
+        {
+          "s_no": 125,
+          "id": "P125",
+          "name": "50 Item Gift Box",
+          "per": "1 Box",
+          "rate": 4800,
+          "discount_price": 960
+        },
+        {
+          "s_no": 126,
+          "id": "P126",
+          "name": "60item Gift Box",
+          "per": "1 Box",
+          "rate": 6300,
+          "discount_price": 1260
+        }
+      ]
+    }
+  ]
+}

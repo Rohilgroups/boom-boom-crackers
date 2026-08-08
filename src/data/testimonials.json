@@ -1,0 +1,26 @@
+[
+  {
+    "id": "t-1",
+    "name": "Karthik R.",
+    "role": "Wholesale Distributor",
+    "location": "Chennai",
+    "quote": "Sivakasi Boom Boom Pyrotech has redefined wholesale purchasing for us. Their pricing is direct factory-level, and the quality of the sky shots is consistent year-over-year. The shipping and packaging are moisture-proof and securely handled.",
+    "rating": 5
+  },
+  {
+    "id": "t-2",
+    "name": "Ananya Nair",
+    "role": "Family Customer",
+    "location": "Kochi",
+    "quote": "The green crackers we ordered for Diwali were fantastic! There was visibly less smoke, and the kids loved the color sparklers and flower pots. Ordering via WhatsApp was quick and the custom price estimate sheet made it easy.",
+    "rating": 5
+  },
+  {
+    "id": "t-3",
+    "name": "Suresh Gowda",
+    "role": "Event Organizer",
+    "location": "Bangalore",
+    "quote": "We buy all our wedding celebration fountains and shells from Sivakasi Boom Boom Pyrotech. The spectacular multi-shot repeaters are reliable and create an premium visual show for couples and guests alike.",
+    "rating": 5
+  }
+]

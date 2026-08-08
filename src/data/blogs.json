@@ -1,0 +1,38 @@
+[
+  {
+    "id": "blog-1",
+    "title": "A Guide to Celebrating Diwali Safely with Kids",
+    "description": "Discover crucial tips and advice to ensure your family enjoys fireworks safely. Learn how green crackers and proper disposal make a difference.",
+    "image": "/sparklers.png",
+    "date": "July 12, 2026",
+    "author": "Srinivasan K., Quality Control",
+    "category": "Safety Guidelines",
+    "tags": ["Safety", "Diwali", "Family"],
+    "readTime": "5 min read",
+    "content": "Celebrating festivals of light brings immense joy, but safety should always be the priority. In this guide, we detail how to create a safe lighting perimeter, the importance of adult supervision, and why purchasing licensed green crackers from Sivakasi Boom Boom Pyrotech ensures low emissions and high safety standards. Read on to learn about water bucket setups, clothing selection, and first aid tips."
+  },
+  {
+    "id": "blog-2",
+    "title": "Understanding Green Crackers: Science & Standards",
+    "description": "What makes a cracker 'green'? Explore the CSIR-NEERI guidelines, chemical compositions, and how they reduce emissions by 30%.",
+    "image": "/skyshots.png",
+    "date": "June 25, 2026",
+    "author": "Dr. Ramesh Babu, Chemical Safety Lead",
+    "category": "Technology",
+    "tags": ["Eco Friendly", "Green Crackers", "Science"],
+    "readTime": "8 min read",
+    "content": "Green crackers are the future of celebratory pyrotechnics. Developed by CSIR-NEERI, these formulations replace hazardous elements like barium nitrate with alternative oxidizers and dust suppressants. This results in a 30% reduction in particulate matter (PM2.5 and PM10) and lower noise levels, ensuring we celebrate responsibly without harming the environment."
+  },
+  {
+    "id": "blog-3",
+    "title": "Behind the Scenes: How Premium Sky Shots are Manufactured",
+    "description": "Step inside our state-of-the-art Sivakasi factory. Learn about shell designing, multi-shot synchronization, and safety testing.",
+    "image": "/rockets.png",
+    "date": "May 10, 2026",
+    "author": "Subash R., Production Head",
+    "category": "Manufacturing",
+    "tags": ["Factory Tour", "Sky Shots", "Excellence"],
+    "readTime": "6 min read",
+    "content": "Manufacturing multi-shot aerial displays is an art that requires precision engineering. Every shell inside our sky shot repeaters must have exactly the right quantity of lift charge and chemical stars. We show you how our skilled workers assemble these products under temperature-controlled environments, followed by testing of sample batches in our dedicated testing range."
+  }
+]

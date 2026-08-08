@@ -1,0 +1,44 @@
+[
+  {
+    "id": "sparklers",
+    "name": "Golden & Color Sparklers",
+    "description": "Traditional hand-held sparklers that emit brilliant showers of colored sparks. Safest for family celebrations.",
+    "image": "/sparklers.png",
+    "count": 12
+  },
+  {
+    "id": "flower-pots",
+    "name": "Vibrant Flower Pots",
+    "description": "Fountain-style crackers that emit high showers of colorful sparks and glitter. Available in multiple heights and durations.",
+    "image": "/flowerpots.png",
+    "count": 15
+  },
+  {
+    "id": "ground-chakkars",
+    "name": "Ground Spinners (Chakkars)",
+    "description": "Fast-spinning circular fireworks that light up the floor with circular halos of red, green, and gold sparks.",
+    "image": "/flowerpots.png",
+    "count": 8
+  },
+  {
+    "id": "rockets",
+    "name": "Acoustic & Flash Rockets",
+    "description": "High-velocity rockets that launch into the sky, creating beautiful crackling trails and final loud flashes.",
+    "image": "/rockets.png",
+    "count": 10
+  },
+  {
+    "id": "sky-shots",
+    "name": "Multi-Color Sky Shots",
+    "description": "Premium aerial repeaters firing multiple consecutive shots of palm, peony, and willow visual effects in the night sky.",
+    "image": "/skyshots.png",
+    "count": 16
+  },
+  {
+    "id": "gift-boxes",
+    "name": "Festive Gift Hampers",
+    "description": "Curated collection of family-safe crackers of assorted varieties, perfect for gifting to your loved ones.",
+    "image": "/giftbox.png",
+    "count": 5
+  }
+]

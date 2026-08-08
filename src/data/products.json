@@ -1,0 +1,152 @@
+[
+  {
+    "id": "prod-1",
+    "name": "10-in-1 Deluxe Sparklers",
+    "category": "sparklers",
+    "description": "Premium multi-colored hand sparklers that burn with slow, controlled, and low-smoke color streams.",
+    "image": "/sparklers.png",
+    "price": 120,
+    "tags": ["Best Seller", "Kids Friendly"],
+    "safetyTip": "Hold at arm length. Dispose of burned wire in a bucket of water.",
+    "specifications": {
+      "Duration": "45 seconds",
+      "Colors": "Red, Green, Blue, Gold",
+      "Pack Qty": "10 Pieces per box"
+    }
+  },
+  {
+    "id": "prod-2",
+    "name": "Crackling Electric Sparklers",
+    "category": "sparklers",
+    "description": "Generates a continuous crackling electric sound with bright white sparks, delighting all age groups.",
+    "image": "/sparklers.png",
+    "price": 150,
+    "tags": ["Featured"],
+    "safetyTip": "Adult supervision required for children below 8 years.",
+    "specifications": {
+      "Duration": "35 seconds",
+      "Sound": "Crackling spark",
+      "Pack Qty": "10 Pieces per box"
+    }
+  },
+  {
+    "id": "prod-3",
+    "name": "Tri-Color Mega Flower Pots",
+    "category": "flower-pots",
+    "description": "Fires a three-stage fountain rising up to 10 feet. Transitions from ruby red to emerald green and finally silver crackling stars.",
+    "image": "/flowerpots.png",
+    "price": 280,
+    "tags": ["Best Seller", "Featured"],
+    "safetyTip": "Place on flat level ground. Light using a sparkler, do not lean over it.",
+    "specifications": {
+      "Fountain Height": "10 feet",
+      "Stages": "3 (Red, Green, Silver Crackle)",
+      "Pack Qty": "5 Pieces per box"
+    }
+  },
+  {
+    "id": "prod-4",
+    "name": "Asok Special Flower Pots",
+    "category": "flower-pots",
+    "description": "Classic gold shower fountain. Reliable, long-lasting, and creates a dense wall of glowing sparks.",
+    "image": "/flowerpots.png",
+    "price": 180,
+    "tags": ["Kids Friendly"],
+    "safetyTip": "Ensure there are no overhead branches or power lines before lighting.",
+    "specifications": {
+      "Fountain Height": "6 feet",
+      "Duration": "30 seconds",
+      "Pack Qty": "10 Pieces per box"
+    }
+  },
+  {
+    "id": "prod-5",
+    "name": "Deluxe Ground Chakkars (Big)",
+    "category": "ground-chakkars",
+    "description": "Super-fast spinning ground wheels that create a dazzling, continuous ring of gold sparks.",
+    "image": "/flowerpots.png",
+    "price": 110,
+    "tags": ["Best Seller"],
+    "safetyTip": "Place flat on smooth ground. Step back immediately after lighting.",
+    "specifications": {
+      "Diameter": "4 inches",
+      "Speed": "High speed spin",
+      "Pack Qty": "10 Pieces per box"
+    }
+  },
+  {
+    "id": "prod-6",
+    "name": "Color-Changing Disco Chakkars",
+    "category": "ground-chakkars",
+    "description": "Ground spinner that changes colors from gold to red and then green while spinning actively.",
+    "image": "/flowerpots.png",
+    "price": 140,
+    "tags": ["Featured"],
+    "safetyTip": "Do not light on dry leaves or grass.",
+    "specifications": {
+      "Diameter": "3.5 inches",
+      "Colors": "Green, Red, Silver",
+      "Pack Qty": "10 Pieces per box"
+    }
+  },
+  {
+    "id": "prod-7",
+    "name": "Whistling Lunik Rockets",
+    "category": "rockets",
+    "description": "Shoots straight up into the air with a loud, high-pitched whistle, ending with a small silver shower.",
+    "image": "/rockets.png",
+    "price": 240,
+    "tags": ["Best Seller"],
+    "safetyTip": "Place the rocket stick vertically in a heavy bottle or launcher tube. Do not bury the stick in mud.",
+    "specifications": {
+      "Flight Altitude": "80-100 feet",
+      "Sound": "High pitch whistle",
+      "Pack Qty": "10 Pieces per box"
+    }
+  },
+  {
+    "id": "prod-8",
+    "name": "30-Shot Aerial Symphony",
+    "category": "sky-shots",
+    "description": "Fires 30 consecutive premium shells that burst into dynamic chrysanthemums, silver palms, and crackling willow showers.",
+    "image": "/skyshots.png",
+    "price": 1250,
+    "tags": ["Featured", "Best Seller"],
+    "safetyTip": "Ensure the box is braced securely with bricks on either side. Light from the side, step back 20 meters.",
+    "specifications": {
+      "Shots Count": "30 Shots",
+      "Altitude": "150 feet",
+      "Duration": "45 seconds"
+    }
+  },
+  {
+    "id": "prod-9",
+    "name": "120-Shot Crackling Rain",
+    "category": "sky-shots",
+    "description": "A rapid-firing block that fills the sky with an intense, continuous rain of silver crackles and multi-colored stars.",
+    "image": "/skyshots.png",
+    "price": 2800,
+    "tags": ["Featured"],
+    "safetyTip": "Keep spectators at a minimum of 25 meters distance. Use outdoors only.",
+    "specifications": {
+      "Shots Count": "120 Shots",
+      "Altitude": "180 feet",
+      "Duration": "90 seconds"
+    }
+  },
+  {
+    "id": "prod-10",
+    "name": "Royal Gold Gift Box",
+    "category": "gift-boxes",
+    "description": "Premium assortment box contains 35 high-quality, kid-friendly item packs including sparklers, pots, chakkars, and whistling rockets.",
+    "image": "/giftbox.png",
+    "price": 1500,
+    "tags": ["Best Seller", "Kids Friendly"],
+    "safetyTip": "Store the box in a dry, cool place away from open flames.",
+    "specifications": {
+      "Total Items": "35 Packs",
+      "Suitability": "Perfect for families",
+      "Packaging": "Luxury heavy cardboard"
+    }
+  }
+]
